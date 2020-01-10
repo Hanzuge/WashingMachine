@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "WashingMachine",
+    "owner": ""
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "WashingMachinrContextDiagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      },
+      {
+        "title": "WashingMachineBehavioralModelDiagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
+      }
+    ],
+    "reviewer": ""
+  }
+}
