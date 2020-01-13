@@ -1733,6 +1733,32 @@
                   "class": "connection hasNoOpenThreats isInScope"
                 }
               }
+            },
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 1054,
+                "y": 805
+              },
+              "angle": 0,
+              "id": "a4b0c614-5492-4dbf-afd1-9afa2de01b7a",
+              "z": 30,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "Hanna Salminen, Aki\nRönnkvist ja Jatta\nJokinen"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
             }
           ]
         },
