@@ -883,34 +883,7 @@
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 1,
         "diagramJson": {
-          "cells": [
-            {
-              "type": "tm.Process",
-              "size": {
-                "width": 100,
-                "height": 100
-              },
-              "position": {
-                "x": 295,
-                "y": 213
-              },
-              "angle": 0,
-              "id": "7ed1882c-77b7-4471-ab6e-db62a50b920c",
-              "z": 1,
-              "hasOpenThreats": false,
-              "attrs": {
-                ".element-shape": {
-                  "class": "element-shape hasNoOpenThreats isInScope"
-                },
-                "text": {
-                  "text": "Washing\nMachine"
-                },
-                ".element-text": {
-                  "class": "element-text hasNoOpenThreats isInScope"
-                }
-              }
-            }
-          ]
+          "cells": []
         },
         "size": {
           "height": 590,
