@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "Priority inversion"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "DataFlowDiagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
