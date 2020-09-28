@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "Levyskanneri"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Levyskanneri1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
